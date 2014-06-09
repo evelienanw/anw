@@ -79,7 +79,13 @@ h2 {
 
 h3 {
   font-size: 24px;
-  text-decoration:none;
+  text-decoration: none;
+}
+
+.kopje {
+  text-decoration: none;
+}
+
 }
 
 h4 {
