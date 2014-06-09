@@ -122,6 +122,8 @@ a {
 
 a { color: black; }
 
+li { color:blue !important; }
+
 footer a {
   color: #F2F2F2;
   text-decoration: underline;
